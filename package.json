@@ -18,5 +18,13 @@
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrwahAdayleh/BootStrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OrwahAdayleh/BootStrap/issues"
+  },
+  "homepage": "https://github.com/OrwahAdayleh/BootStrap#readme"
 }
